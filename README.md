@@ -19,4 +19,6 @@ solved using dynamic programming
 building a two dimensional temporary array
 
 num + 1 
+<img width="375" alt="Screen Shot 2019-07-10 at 9 11 51 PM" src="https://user-images.githubusercontent.com/10871164/61017295-43b69700-a358-11e9-88b1-2362d19b9ee4.png">
+
 
